@@ -1,1 +1,3 @@
-## Stanson Ventures is a seed-stage venture fund helping founders unlock unfair advantages leveraging propietary networks.
+## Stanson Ventures is a venture fund with a 💚. We make a difference in the lives of the founders we back.
+
+Our approach operates at the intersection of engineering, design, strategy, and emphathy. We help founders unlock opportunities in priopietary networks across industires, regions, and beyond.
