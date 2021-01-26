@@ -4,7 +4,7 @@ remote_theme: alshedivat/al-folio/releases/tag/v0.3.5
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Stanson Ventures # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Stanson
 last_name: Ventures
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
