@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: post
 ---
 
 ## Stanson Ventures is a venture fund with a 💚 We strive to make a difference in the lives of the founders we back.
