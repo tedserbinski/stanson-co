@@ -1,1 +1,1 @@
-# stanson vc
+# Stanson Ventures
